@@ -3,12 +3,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<properties>
-		<photo.groupId>onwingtech.onwing</photo.groupId>
+		<photo.groupId>HouseHold.onwing</photo.groupId>
 		<photo.version>0.0.1-SNAPSHOT</photo.version>
 	</properties>
 
 	<parent>
-		<groupId>onwingtech.onwing</groupId>
+		<groupId>HouseHold.onwing</groupId>
 		<artifactId>onwing</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../pom.xml</relativePath>
